@@ -2,3 +2,12 @@ ls -al para  ver carpetas ocultas
 git init para crear  repo
 git config --global user.name
 git config --global user.email
+git log comandos.txt para hacer logs del archivo
+git show mostrar todos los cambios 
+ git  diff e236200d10d41427a64a098e16c50f3b6282816a  99c829796926b07e27da5846cea090a1935d7ed7  ver diferencias entrre todos
+ git checkout traerme los cambios a la cartpera
+ master  creo varias versiones sin parar hasta llegarr a la version actual
+ cada vez que haga un commit llego a esto v1 ,v2 v3
+ saco una copia de master y sigo con mis commits v3: v11 v22 v33 v44
+ ,merge: uno cambios de una rama con otra.
+ git reset hard /soft volver al pasado de una manera agresiva 
