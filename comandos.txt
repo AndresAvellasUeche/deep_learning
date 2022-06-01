@@ -1,0 +1,2 @@
+ls -al para  ver carpetas ocultas
+git init para crear  repo
