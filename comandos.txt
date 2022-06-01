@@ -1,2 +1,4 @@
 ls -al para  ver carpetas ocultas
 git init para crear  repo
+git config --global user.name
+git config --global user.email
