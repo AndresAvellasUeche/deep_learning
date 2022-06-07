@@ -57,3 +57,5 @@ gir push  par mandar al repositorio remoto !
 giit fetch  para traer el prerositorio remoto!
  git pull trae todo lo nuevo ! 
  git commit -am "todos los comandos listos"
+ editndo enla interfaz de git 
+ 
